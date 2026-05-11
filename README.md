@@ -26,14 +26,17 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 ## OUTPUT:
 ### First Policy
 
-![image](policy.png)
-![image](po1.png)
+<img width="576" height="128" alt="Screenshot 2026-05-11 234308" src="https://github.com/user-attachments/assets/ebbccfaf-10f3-4934-952a-a21828a1f54a" />
+<img width="716" height="30" alt="Screenshot 2026-05-11 234314" src="https://github.com/user-attachments/assets/6613ac8a-b3a1-4d81-817e-8c0a71a912ab" />
+
 ### Second Policy
-![image](policy2.png)
-![image](po2.png)
+<img width="615" height="176" alt="Screenshot 2026-05-11 234326" src="https://github.com/user-attachments/assets/a026d559-4550-4bdd-9bd2-97003c1b6980" />
+<img width="923" height="52" alt="Screenshot 2026-05-11 234329" src="https://github.com/user-attachments/assets/6b0e3a81-703a-4984-9a1c-e9feecdbf257" />
+
 ### Output
-![image](state.png)
-![image](final.png)
+<img width="650" height="233" alt="Screenshot 2026-05-11 234337" src="https://github.com/user-attachments/assets/6c26f79c-db54-4a8d-8949-84a5accfcf30" />
+<img width="456" height="47" alt="Screenshot 2026-05-11 234341" src="https://github.com/user-attachments/assets/722ee8dd-81e9-402f-9b73-817ca7e8cb5c" />
+
 ## RESULT:
 
 
