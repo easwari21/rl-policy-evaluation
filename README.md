@@ -26,15 +26,15 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 ## OUTPUT:
 ### First Policy
 
-![output](policy.png)
-![output](po1.png)
+![image](policy.png)
+![image](po1.png)
 ### Second Policy
-![output](policy2.png)
-![output](po2.png)
-### OUTPUT
-![output](state.png)
-![output](final.png)
+![image](policy2.png)
+![image](po2.png)
+### Output
+![image](state.png)
+![image](final.png)
 ## RESULT:
 
 
-Thus the policy evaluation function has been successfully implemented and output is obtained.
+Thus the policy evaluation function has been successfully implemented and image is obtained.
